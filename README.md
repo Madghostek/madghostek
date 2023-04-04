@@ -9,7 +9,7 @@ Próbowałem swoich sił w różnych tematach:
 ## Moje projekty
 Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuję, większość z nich jest godna poświęcenia uwagi:
 * Fork emulatora Nintendo64 (publiczny projekt, któremu poświęciłem bardzo dużo czasu):  [link](https://github.com/mkdasher/mupen64-rr-lua-)
-  * Technologie: C, Lua, WinAPI (pisanie bibliotek DLL, okienek, GDI do manipulacji bitmapami), OpenGL, ffmpeg
+  * Technologie: C/C++, Lua ( integracja z C ), WinAPI (pisanie bibliotek DLL, okienek, GDI do manipulacji bitmapami), OpenGL, ffmpeg
 * Program do wyświetlania plików .bsp (mapy Half-life) w OpenGL: [link](https://github.com/Madghostek/hl-bsp-viewer)
   * Technologie: Python, OpenGL
 * [Studia] Dziennik elektroniczny "USUS": [link](https://github.com/Madghostek/PAP22L-USUS)
@@ -17,7 +17,8 @@ Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuj�
 * [Studia] Gra czołgi "Schorched reloaded": [link](https://github.com/Madghostek/uni-projects/tree/master/PROI)
   * Technologie: C++, SFML
 * [Studia] Różne projekty zaliczeniowe na przedmioty: [link](https://github.com/Madghostek/uni-projects)
-  * Technologie (łączna lista): Różne
+  * Tematy projektów to między innymi: wydajne operacje na obrazach (hybrydowe programowanie), algorytmika, program do tworzenia i rozwiązywania labiryntów
+  * Technologie: Różne
 
 
 Mniejsze, niedokończone, lub mniej ważne projekty z czasów gimnazjum i liceum:
