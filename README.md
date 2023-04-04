@@ -14,9 +14,9 @@ Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuj�
   * Technologie: Python, OpenGL
 * [Studia] Dziennik elektroniczny "USUS": [link](https://github.com/Madghostek/PAP22L-USUS)
   * Technologie: Java (Spring boot, Thymleaf), LDAP, Docker
-* [Studia] Gra czołgi "Schorched reloaded": @TODO link
+* [Studia] Gra czołgi "Schorched reloaded": [link]()
   * Technologie: C++, SFML
-* [Studia] Różne projekty zaliczeniowe na przedmioty: @TODO link, arko,pipr,pzsp1
+* [Studia] Różne projekty zaliczeniowe na przedmioty: [link](https://github.com/Madghostek/uni-projects)
   * Technologie (łączna lista): Różne
 
 
