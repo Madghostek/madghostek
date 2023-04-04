@@ -12,7 +12,7 @@ Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuj�
   * Technologie: C, Lua, WinAPI (pisanie bibliotek DLL, okienek, GDI do manipulacji bitmapami), OpenGL, ffmpeg
 * Program do wyświetlania plików .bsp (mapy Half-life) w OpenGL: [link](https://github.com/Madghostek/hl-bsp-viewer)
   * Technologie: Python, OpenGL
-* [Studia] Dziennik elektroniczny "USUS": @TODO link
+* [Studia] Dziennik elektroniczny "USUS": [link](https://github.com/Madghostek/PAP22L-USUS)
   * Technologie: Java (Spring boot, Thymleaf), LDAP, Docker
 * [Studia] Gra czołgi "Schorched reloaded": @TODO link
   * Technologie: C++, SFML
