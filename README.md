@@ -17,7 +17,7 @@ Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuj�
 * [Studia] Gra czołgi "Schorched reloaded": [link](https://github.com/Madghostek/uni-projects/tree/master/PROI)
   * Technologie: C++, SFML
 * [Studia] Różne projekty zaliczeniowe na przedmioty: [link](https://github.com/Madghostek/uni-projects)
-  * Tematy projektów to między innymi: wydajne operacje na obrazach (hybrydowe programowanie), algorytmika, program do tworzenia i rozwiązywania labiryntów
+  * Tematy projektów to między innymi: sztuczna inteligencja i uczenie maszynowe, wydajne operacje na obrazach (hybrydowe programowanie), algorytmika, program do tworzenia i rozwiązywania labiryntów
   * Technologie: Różne
 
 
