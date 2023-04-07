@@ -7,7 +7,7 @@ Próbowałem swoich sił w różnych tematach:
 * Róznego rodzaju aplikacje graficzne i gry oraz mniejsze projekty
 
 ## Moje projekty
-Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuję, większość z nich jest godna poświęcenia uwagi:
+### Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuję, większość z nich jest godna poświęcenia uwagi:
 * Fork emulatora Nintendo64 (publiczny projekt, któremu poświęciłem bardzo dużo czasu):  [link](https://github.com/mkdasher/mupen64-rr-lua-)
   * Technologie: C/C++, Lua ( integracja z C ), WinAPI (pisanie bibliotek DLL, okienek, GDI do manipulacji bitmapami), OpenGL, ffmpeg
 * Program do wyświetlania plików .bsp (mapy Half-life) w OpenGL: [link](https://github.com/Madghostek/hl-bsp-viewer)
@@ -21,7 +21,7 @@ Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuj�
   * Technologie: Różne
 
 
-Mniejsze, niedokończone, lub mniej ważne projekty z czasów gimnazjum i liceum:
+### Mniejsze, niedokończone, lub mniej ważne projekty z czasów gimnazjum i liceum:
 * Serwis do skracania linków: [link](https://github.com/Madghostek/link-shortener-app)
   * Ideą było zapoznać się z Django, zamiast faktycznie tworzyć coś dużego i użytecznego, lecz koniec końców projekt wyszedł ciekawy.
 * Interaktywny bot czatowy: [link](https://github.com/Madghostek/website-assistant-bot-nltk)
