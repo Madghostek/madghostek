@@ -26,10 +26,10 @@ Próbowałem swoich sił w różnych tematach:
   * Ideą było zapoznać się z Django, zamiast faktycznie tworzyć coś dużego i użytecznego, lecz koniec końców projekt wyszedł ciekawy.
 * Interaktywny bot czatowy: [link](https://github.com/Madghostek/website-assistant-bot-nltk)
   * Napisany podczas zajęć dodatkowych w liceum. Korzysta z PyTorch i nltk.
-* Czat internetowy: @TODO link
-  * 
+* Czat internetowy: [link](https://github.com/Madghostek/weird-old-stuff/tree/master/socketio-chat)
+  * trzy iteracje (tylko poprawy wyglądu strony)
   * Technologie: NodeJS
-* Bilard (niekompletny): @TODO link
+* Bilard (niekompletny): [link](https://github.com/Madghostek/weird-old-stuff/tree/master/pygame-bilard)
   * Technologie: Python (PyGame)
-* Zbiór starych projektów napisanych z nudów:
+* Zbiór starych projektów napisanych z nudów: [link](https://github.com/Madghostek/weird-old-stuff)
   * Technologie: javascript (p5.js), C/C++, Python
