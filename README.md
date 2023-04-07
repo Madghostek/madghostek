@@ -23,12 +23,13 @@ Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuj�
 
 Mniejsze, niedokończone, lub mniej ważne projekty z czasów gimnazjum i liceum:
 * Serwis do skracania linków: [link](https://github.com/Madghostek/link-shortener-app)
-  * Idea była aby zapoznać się ze Spring Boot niż faktycznie tworzyć coś dużego
+  * Ideą było zapoznać się z Django, zamiast faktycznie tworzyć coś dużego i użytecznego, lecz koniec końców projekt wyszedł ciekawy.
 * Interaktywny bot czatowy: [link](https://github.com/Madghostek/website-assistant-bot-nltk)
   * Napisany podczas zajęć dodatkowych w liceum. Korzysta z PyTorch i nltk.
 * Czat internetowy: @TODO link
+  * 
   * Technologie: NodeJS
-* Bilard: @TODO link
+* Bilard (niekompletny): @TODO link
   * Technologie: Python (PyGame)
-* Zbiór starych projektów bez większego celu
+* Zbiór starych projektów napisanych z nudów:
   * Technologie: javascript (p5.js), C/C++, Python
