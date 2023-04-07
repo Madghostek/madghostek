@@ -25,7 +25,7 @@ Mniejsze, niedokończone, lub mniej ważne projekty z czasów gimnazjum i liceum
 * Serwis do skracania linków: [link](https://github.com/Madghostek/link-shortener-app)
   * Idea była aby zapoznać się ze Spring Boot niż faktycznie tworzyć coś dużego
 * Interaktywny bot czatowy: [link](https://github.com/Madghostek/website-assistant-bot-nltk)
-  * Napisany w PyTorch podczas zajęć dodatkowych w liceum.
+  * Napisany podczas zajęć dodatkowych w liceum. Korzysta z PyTorch i nltk.
 * Czat internetowy: @TODO link
   * Technologie: NodeJS
 * Bilard: @TODO link
