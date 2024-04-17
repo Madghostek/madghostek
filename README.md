@@ -16,6 +16,10 @@ Próbowałem swoich sił w różnych tematach:
 * [Studia] Anotacja tonacji utworów: [link](https://github.com/Madghostek/Spotify-song-major-minor-classification)
   * Próba stworzenia modelu klasyfikującego utwory na molowe i durowe, na podstawie innych danych o utworze. Główny model oparty jest o XGBoost.
   * Technologie: scikit-learn, numpy, pandas
+* [Studia] Aplikacja sklepu internetowego [link](https://github.com/PIK23/skelp_internetowy/)
+   * Skomplikowana architektura z CI/CD, coś co od strony technicznej można stawiać na równi z rzeczywistymi profesjonalnymi projektami.
+   * Zajmowałem się backendem w Spring Boot, zarządzaniem serwerem dedykowanym (od uczelni), oraz konfigurowaniem części CI/CD w Jenkinsie.
+   * mamy też [wpisy na blogu](https://pw-sklep-internetowy.blogspot.com/)!
 * [Studia] Uczenie ze wzmocnieniem do modyfikowania parametrów algorytmu ewolucyjnego: [link](https://github.com/domikkkk/UMA)
   * Projekt badał Q-Learning w kontekście dynamicznej zmiany parametrów podczas pracy algorytmu, czy daje to pozytywny efekt.
   * Technologie: numpy, matplotlib
@@ -28,6 +32,8 @@ Próbowałem swoich sił w różnych tematach:
   * Technologie: C++, SFML
 * Interaktywny bot czatowy: [link](https://github.com/Madghostek/website-assistant-bot-nltk)
   * Napisany podczas zajęć dodatkowych w liceum. Korzysta z PyTorch i nltk.
+* Techniki renderingu 3D w OpenGL: [link](https://github.com/Madghostek/3d-render-opengl)
+  * Ciekawy projekt grupowy, nie polecam moderngl-window bo głębsze części dokumentacji są niekompletne i trzeba czytać kod źródłowy biblioteki.
 * [Studia] Różne projekty zaliczeniowe na przedmioty: [link](https://github.com/Madghostek/uni-projects)
   * Tematy projektów to między innymi: sztuczna inteligencja i uczenie maszynowe, wydajne operacje na obrazach (hybrydowe programowanie), algorytmika, program do tworzenia i rozwiązywania labiryntów
   * Technologie: Różne
