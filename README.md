@@ -5,7 +5,7 @@ Próbowałem swoich sił w różnych tematach:
 * aplikacje webowe w różnych technologiach (Spring boot, Django, Nodejs), 
 * aplikacje desktopowe, głównie C i WinApi, lecz niekedy też w pythonie i Qt
 * Róznego rodzaju aplikacje graficzne i gry oraz mniejsze projekty
-* Uczenie maszynowe, szczególnie uczenie ze wzmocnieniem (narazie głównie jako projekty na studia)
+* Uczenie maszynowe z nastawieniem na wizję komputerową (narazie głównie jako projekty na studia i praca inżynierska)
 
 ## Moje projekty
 ### Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuję, większość z nich jest godna poświęcenia uwagi:
