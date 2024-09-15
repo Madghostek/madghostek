@@ -20,7 +20,7 @@ Próbowałem swoich sił w różnych tematach:
    * Skomplikowana architektura z CI/CD, coś co od strony technicznej można stawiać na równi z rzeczywistymi profesjonalnymi projektami.
    * Zajmowałem się backendem w Spring Boot, zarządzaniem serwerem dedykowanym (od uczelni), oraz konfigurowaniem części CI/CD w Jenkinsie.
    * mamy też [wpisy na blogu](https://pw-sklep-internetowy.blogspot.com/)!
-* [Studia] Platforma do przeprowadzania badań genetycznyc [link](https://github.com/pzsp2-23z-z10/adnotacja)
+* [Studia] Platforma do przeprowadzania badań genetycznych [link](https://github.com/pzsp2-23z-z10/adnotacja)
    *  Projekt grupowy, umożliwia przeprowadzanie analizy wariantów mutacyjnych DNA za pomocą istniejących algorytmów
    *  Celem była łatwa rozszerzalność i przyspieszenie wolnych obliczeń poprzez składowanie wyników w bazie danych.
    *  Technologie: (Javascript, mongodb, docker)
