@@ -13,6 +13,10 @@ Próbowałem swoich sił w różnych tematach:
 ### Umieściłem tutaj różne projekty, nad którymi pracowałem, lub nadal pracuję, większość z nich jest godna poświęcenia uwagi:
 * Fork emulatora Nintendo64 (publiczny projekt, któremu poświęciłem bardzo dużo czasu):  [link](https://github.com/mkdasher/mupen64-rr-lua-)
   * Technologie: C/C++, Lua ( integracja z C ), WinAPI (pisanie bibliotek DLL, okienek, GDI do manipulacji bitmapami), OpenGL, ffmpeg
+* [Studia] Biblioteka python do obsługi grafów filtrów w FFmpeg [link](https://github.com/ffmpeg-zprp/zprp-ffmpeg)
+  * Projekt gupowy, cechuje się wykorzystaniem dobrych praktyk programistycznych i zaawansowanych mechanizmów w języku python
+  * Projektowałem ogólną strukturę kodu biblioteki oraz zaimplementowałem automatyczną generację filtrów na podstawie kodu źródłowego FFmpeg
+  * Biblioteka dostępna na PyPI - [link](https://pypi.org/project/zprp-ffmpeg/)
 * Program do wyświetlania plików .bsp (mapy Half-life) w OpenGL: [link](https://github.com/Madghostek/hl-bsp-viewer)
   * Technologie: Python, OpenGL
 * [Studia] Anotacja tonacji utworów: [link](https://github.com/Madghostek/Spotify-song-major-minor-classification)
