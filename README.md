@@ -1,7 +1,7 @@
 Lekko przestarzałe / Slightly outdated
 
 # O mnie
-Jestem studentem pasjonującym się informatyką od wielu lat, obecnie jestem na 3 roku informatyki na wydziale EiTI Politechniki Warszawskiej. Głownie sam na podstawie internetu nauczyłem się programowania w różnych językach, na studiach poznaję sprawdzone schematy oraz praktyki programowania i szlifuję moje umiejętności, oraz mam okazję do pracy w grupie z osobami na podobym poziomie. Ostatnio skupiam się na sztucznej inteligencji, dopiero po fundamentalnych wykładach na studiach zaczynam być w stanie pogłębiać te tematy. Moje zainteresowania to reverse engineering i cyberbezpieczeństwo, szachy, gra na keyboardzie, retro gaming.
+Jestem studentem pasjonującym się informatyką od wielu lat, obecnie jestem na pierwszym roku magisterki na wydziale EiTI Politechniki Warszawskiej. Głownie sam na podstawie internetu nauczyłem się programowania w różnych językach, na studiach poznaję sprawdzone schematy oraz praktyki programowania i szlifuję moje umiejętności, oraz mam okazję do pracy w grupie z osobami na podobym poziomie. Ostatnio skupiam się na sztucznej inteligencji, dopiero po fundamentalnych wykładach na studiach zaczynam być w stanie pogłębiać te tematy. Moje zainteresowania to reverse engineering i cyberbezpieczeństwo, szachy, gra na keyboardzie, retro gaming.
 
 Próbowałem swoich sił w różnych tematach: 
 * aplikacje webowe w różnych technologiach (Spring boot, Django, Nodejs), 
